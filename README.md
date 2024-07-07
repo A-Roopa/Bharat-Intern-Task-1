@@ -25,6 +25,12 @@ Libraries: Pandas for data manipulation, NLTK for text preprocessing, scikit-lea
 Algorithms: Support Vector Machine (SVM), Random Forest, and Naive Bayes, selected for their effectiveness in text classification tasks.
 Tools: TF-IDF Vectorizer for feature extraction, GridSearchCV for hyperparameter tuning, and Pipelines to streamline preprocessing and model training.
 
+Outcomes:
+
+High Accuracy Model: Developed a robust SMS classifier capable of accurately distinguishing between spam and non-spam messages.
+Optimized Hyperparameters: Achieved optimal model performance through extensive hyperparameter tuning using GridSearchCV.
+Effective Feature Extraction: Successfully implemented TF-IDF vectorization, improving the model's ability to understand and classify text data.
+Real-time Application: Created a practical function for real-time spam detection, enhancing the user experience by filtering unwanted messages.
 
 
 
